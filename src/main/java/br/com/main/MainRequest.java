@@ -42,9 +42,11 @@ public class MainRequest {
 		/*
 		 * Array usado para os alvos disponiveis da request
 		 */
-		String[] targets_urls = { "https://bprspwas11d.brasilprev.corp/bprvendasdm/api/dps/situacaoproposta/lista",
-				"https://www.google.com.br", "https://bprspwas01d.brasilprev.corp/bprvendasdmlg/api/venda/status",
-				"https://pt.wikipedia.org/wiki/Wiki", "https://start.spring.io/" };
+		String[] targets_urls = {"https://www.terra.com.br/",
+				         "https://www.google.com.br", 
+					 "https://www.uol.com.br/",
+				         "https://pt.wikipedia.org/wiki/Wiki", 
+					 "https://start.spring.io/" };
 		/*
 		 * Lista que guarda todos os tempos de execução de cada função para cada Url
 		 * alvo
