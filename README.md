@@ -12,3 +12,5 @@ Java Lite Http (versão 2.1)
 Ok Http (versão 3.11.0)
 
 Rest Assured (versão 3.1.1)
+
+Todas os frameworks estão usando uma forma de não validar a cadeia de certificados e autenticação básica. 
